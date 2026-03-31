@@ -4,7 +4,7 @@
 
 **A cognitive architecture that trades structure for compute and memory for intelligence.**
 
-> 个人开发者项目。没有 $5B 去训练 1T 模型，但用科学方法验证了架构在 scale-up 时的鲁棒性。
+> 个人开发者项目。没有算力训练 1T 模型，但用科学方法验证了架构在 scale-up 时的鲁棒性。
 > 所有实验数据公开，所有代码可复现。
 
 <p align="center">
@@ -154,7 +154,7 @@ Inference (100M context, INT4):
   Pyramid:   263 GB (fingerprints only)
   Total:     ~769 GB → 10× A100 80GB
 
-Training: ~10,000× H100, 120 days, ~$5B
+Training: ~10,000× H100, 120 days (cost declining rapidly with hardware advances)
 ```
 
 > **Honest disclaimer**: 100M context is a "lossy semantic compression window." It preserves logical structure but loses verbatim details. Think of it as reading 100 books and remembering the key arguments, not the exact sentences.
@@ -167,7 +167,7 @@ Training: ~10,000× H100, 120 days, ~$5B
 2. **All components are from published papers.** Our contribution is the specific combination, the LoRA-TTT finding, and the W-snapshot pyramid concept.
 3. **100M context is lossy.** TTT compresses information, it doesn't store it losslessly. The "100M" claim requires significant caveats.
 4. **MoE expert count is untested at scale.** 8 experts work at 50M; DeepSeek-V3 uses 256 at 671B. Optimal count at 1T is unknown.
-5. **Training cost is $5B.** This is a national-scale project, not a startup endeavor.
+5. **Training at 1T scale requires significant compute.** Cost is declining rapidly with hardware advances and algorithmic improvements.
 
 ---
 

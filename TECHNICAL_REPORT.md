@@ -180,7 +180,7 @@ Save W snapshots and content fingerprints (mean token embeddings) at each phase.
 ### 4.3 Training Cost
 
 Chinchilla-optimal training: 20T tokens, ~3.82×10²⁵ FLOPs.
-At 40% MFU on A100: **~85M GPU-hours** → ~10,000 H100 × 120 days → **~$5B**.
+At 40% MFU on A100: **~85M GPU-hours** → ~10,000 H100 × 120 days. Cost is hardware-dependent and declining rapidly with advances in training efficiency.
 
 ---
 
