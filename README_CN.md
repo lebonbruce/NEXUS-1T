@@ -8,12 +8,16 @@
 [English](README.md) | **中文**
 
 <p align="center">
-  <img src="assets/architecture.png" width="600" alt="NEXUS 架构"/>
+  <img src="assets/chart_architecture.png" width="600" alt="NEXUS 架构"/>
 </p>
 
 <p align="center">
-  <img src="assets/memory_comparison.png" width="48%" alt="显存对比"/>
-  <img src="assets/lora_rank_chart.png" width="48%" alt="LoRA Rank 实验"/>
+  <img src="assets/chart_memory.png" width="48%" alt="显存对比：6400 倍压缩"/>
+  <img src="assets/chart_lora_rank.png" width="48%" alt="LoRA rank=8: 8.1 倍提升"/>
+</p>
+
+<p align="center">
+  <img src="assets/chart_ttt_online.png" width="700" alt="TTT 在线学习：Loss 越读越低"/>
 </p>
 
 ---

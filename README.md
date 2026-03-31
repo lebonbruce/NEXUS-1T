@@ -8,12 +8,16 @@
 > 所有实验数据公开，所有代码可复现。
 
 <p align="center">
-  <img src="assets/architecture.png" width="600" alt="NEXUS Architecture"/>
+  <img src="assets/chart_architecture.png" width="600" alt="NEXUS Architecture"/>
 </p>
 
 <p align="center">
-  <img src="assets/memory_comparison.png" width="48%" alt="Memory Comparison"/>
-  <img src="assets/lora_rank_chart.png" width="48%" alt="LoRA Rank Experiment"/>
+  <img src="assets/chart_memory.png" width="48%" alt="Memory: 6400× reduction"/>
+  <img src="assets/chart_lora_rank.png" width="48%" alt="LoRA rank=8: 8.1× better"/>
+</p>
+
+<p align="center">
+  <img src="assets/chart_ttt_online.png" width="700" alt="TTT Online Learning: Loss decreases while reading"/>
 </p>
 
 ---
