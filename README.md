@@ -245,10 +245,10 @@ If you find this work useful, please cite:
 
 ```bibtex
 @misc{nexus2026,
-  title={NEXUS: A Scale-Aware Cognitive Architecture with Test-Time Training and Differential Attention},
+  title={NEXUS: A Scale-Aware Transformer with LoRA-TTT, Differential Attention, MLA and MoE},
   author={LeBon},
   year={2026},
-  url={https://github.com/LeBon/nexus-cognitive-architecture}
+  url={https://github.com/lebonbruce/NEXUS-1T}
 }
 ```
 
