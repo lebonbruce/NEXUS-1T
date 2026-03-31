@@ -1,5 +1,7 @@
 # NEXUS: Structure for Compute, Memory for Intelligence
 
+**English** | [中文](README_CN.md)
+
 **A cognitive architecture that trades structure for compute and memory for intelligence.**
 
 > 个人开发者项目。没有 $5B 去训练 1T 模型，但用科学方法验证了架构在 scale-up 时的鲁棒性。
