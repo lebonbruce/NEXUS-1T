@@ -7,6 +7,15 @@
 > 个人开发者项目。没有 $5B 去训练 1T 模型，但用科学方法验证了架构在 scale-up 时的鲁棒性。
 > 所有实验数据公开，所有代码可复现。
 
+<p align="center">
+  <img src="assets/architecture.png" width="600" alt="NEXUS Architecture"/>
+</p>
+
+<p align="center">
+  <img src="assets/memory_comparison.png" width="48%" alt="Memory Comparison"/>
+  <img src="assets/lora_rank_chart.png" width="48%" alt="LoRA Rank Experiment"/>
+</p>
+
 ---
 
 ## What is NEXUS?

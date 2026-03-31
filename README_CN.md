@@ -7,6 +7,15 @@
 
 [English](README.md) | **中文**
 
+<p align="center">
+  <img src="assets/architecture.png" width="600" alt="NEXUS 架构"/>
+</p>
+
+<p align="center">
+  <img src="assets/memory_comparison.png" width="48%" alt="显存对比"/>
+  <img src="assets/lora_rank_chart.png" width="48%" alt="LoRA Rank 实验"/>
+</p>
+
 ---
 
 ## NEXUS 是什么？
