@@ -261,7 +261,7 @@ I'm an independent researcher with limited compute resources. If you're interest
 - **Research collaboration** on TTT online learning or long-context architectures
 - **Hiring** someone who understands these architectures deeply
 
-Please reach out: [your email / twitter / etc.]
+Please reach out: lebonbruce92@gmail.com
 
 ---
 

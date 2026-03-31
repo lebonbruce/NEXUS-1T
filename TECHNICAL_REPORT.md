@@ -225,4 +225,4 @@ python pretrain/moe_turboquant_test.py      # 2s
 
 ---
 
-*Corresponding author: [LeBon] — Independent researcher seeking compute resources for scale-up validation.*
+*Corresponding author: LeBon (lebonbruce92@gmail.com) — Independent researcher seeking compute resources for scale-up validation.*
